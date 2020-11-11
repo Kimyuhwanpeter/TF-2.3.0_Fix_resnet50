@@ -1,4 +1,4 @@
-# Fix_Resnex50_gender_classification
+# Fix_Resnet50_gender_classification
 * paper reference: Face and Gender Recognition System Based onConvolutional Neural networks
 
 # Implementation
