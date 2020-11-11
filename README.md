@@ -1,7 +1,7 @@
 # Fix_Resnet50_gender_classification
 * paper reference: Face and Gender Recognition System Based onConvolutional Neural networks
 
-[image-20201111144240133](https://github.com/Kimyuhwanpeter/TF-2.3.0_Fix_resnet50_for_gender/blob/main/1.JPG)
+![image-20201111144240133](https://github.com/Kimyuhwanpeter/TF-2.3.0_Fix_resnet50_for_gender/blob/main/1.JPG)
 
 # Implementation
 * Ubuntu 18.04
