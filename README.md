@@ -12,3 +12,5 @@
 * This version is modified resnet-50 training in this paper.
 * 2-fold cross validiation (different from paper)
 * Use test accuracy during training instead of validation accuracy
+* Use tensorboard to show the loss and acc graphs
+* **Still working with it..**
