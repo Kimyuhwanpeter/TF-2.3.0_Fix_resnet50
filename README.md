@@ -1,6 +1,6 @@
 # Fix_Resnet50_gender_classification
 * paper reference: Face and Gender Recognition System Based onConvolutional Neural networks
-
+[image-20201111144240133](C:\Users\Yuhwan\AppData\Roaming\Typora\typora-user-images\image-20201111144240133.png]()
 # Implementation
 * Ubuntu 18.04
 * Python 3.7.8
