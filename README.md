@@ -13,4 +13,4 @@
 * 2-fold cross validiation (different from paper)
 * Use test accuracy during training instead of validation accuracy
 * Use tensorboard to show the loss and acc graphs
-* First fold for AFAD acc is 76.4 %
+* First fold for (generated from Morph)AFAD acc is 76.4 %
