@@ -14,3 +14,5 @@
 * Use test accuracy during training instead of validation accuracy
 * Use tensorboard to show the loss and acc graphs
 * First fold for (generated from Morph)AFAD acc is 76.4 %
+* Second fold for (generated from Morph)AFAD acc is 83.04 %
+* (Generated from Morph)AFAD acc is 79.72 %
