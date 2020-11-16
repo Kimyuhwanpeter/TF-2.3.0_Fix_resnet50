@@ -16,3 +16,4 @@
 * First fold for (generated from Morph)AFAD acc is 76.4 %
 * Second fold for (generated from Morph)AFAD acc is 83.04 %
 * (Generated from Morph)AFAD acc is 79.72 %
+* First fold for (generated from AFAD)Morph acc is 88.83 %
