@@ -24,3 +24,5 @@
 * Second fold for original AFAD acc is 99.99 %
 * Original AFAD acc is 98.59 %
 * First fold for original Morph acc 98.97 %
+* Second fold for original Morph acc 99.99 %
+* Original Morph acc is 99.48 %
