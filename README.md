@@ -38,3 +38,5 @@
 * First fold (Train-AFAD, Test-generated AFAD) acc 96.83 %
 * Second fold (Train-AFAD, Test-generated AFAD) acc 99.98 %
 * Train-AFAD, Test-generated AFAD acc is 98.41 %
+
+* First fold (Train-Morph, Test-generated Morph) acc 99.3 %
